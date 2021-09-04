@@ -1,2 +1,2 @@
 # docker-py
-simple Docker project 
+A simple containerized Python application using Docker and Github action workflow
